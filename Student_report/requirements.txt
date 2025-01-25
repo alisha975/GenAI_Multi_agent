@@ -1,0 +1,6 @@
+langchain
+pandas
+matplotlib
+seaborn
+langchain.core
+langgraph
