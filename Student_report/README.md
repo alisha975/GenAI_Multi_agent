@@ -77,16 +77,16 @@ INSTALLATION
 ## Screenshots
 
 ### Student Dashboard
-![Student Dashboard](Screenshots/Dashboard.png)
+![Student Dashboard](Scrreenshots/Dashboard.png)
 
 ### ID Selection
-![ID Selection](Screenshots/ID_Selection.png)
+![ID Selection](Scrreenshots/ID_Selection.png)
 
 ### Analysis Result
-![Analysis Result](Screenshots/analysis_agent.png)
+![Analysis Result](Scrreenshots/analysis_agent.png)
 
 ### Summary Result
-![Summary Result](Screenshots/Summary_agent.png)
+![Summary Result](Scrreenshots/Summary_agent.png)
 
 ### Graph Visualization
-![Graph Visualization](Screenshots/graph.png)
+![Graph Visualization](Scrreenshots/graph.png)
